@@ -1,0 +1,68 @@
+.logo1{background-color: #1A3243;
+    border-style: solid ;
+    margin: 10px;  
+    padding: 20px;
+}
+
+
+
+.topo{
+    color: #1BB4E8;
+    background-color: #1A3243;
+    margin-top: -100px;
+    margin-left: 70px;
+    width: 70px;
+    font-style: italic;
+    font-size: 12px;
+
+}
+
+.topo2{
+    color: #f0f0f0;
+    background-color: #1A3243;
+    margin-left: 70px;
+    margin-top: -20px;
+    width: 180px;
+    font-size: 14px;
+}
+
+.menu{
+    color: #115870;
+    text-align: right;
+    font-size: 16px;
+
+
+}
+
+.barcoprincipal{
+    border-radius:  495px;
+    height: 900px;
+    margin-left: 10px;
+    display: inline;
+    margin-top: -190px;
+
+}
+
+
+
+.quadro{
+    background-color: #1A3243;
+    font-size: 16px;
+    margin: 80px;
+    display: inline;
+
+}
+
+.destinos{
+    background-color: #1BB4E8;
+
+}
+
+.nossafrota{
+background-color: #C6B07F;
+}
+
+.txtdestinos{
+    margin-left: 40px;
+    margin-top: -100;
+}
